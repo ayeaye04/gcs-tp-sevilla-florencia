@@ -1,4 +1,4 @@
-# Registro de Cambios - Proyecto gcs-tp-apellido-nombre
+# Registro de Cambios - Proyecto gcs-tp-sevilla-florencia
 ## Versión 1.0
 ### Elementos de Configuración (ECS):
 - `src/index.html`
@@ -11,5 +11,16 @@
 - `docs/registro_cambios.md`
 - `.gitignore`
 
-### Descripción:
-Versión inicial del proyecto con estructura base y documentación.
+### Descripcion:
+- Versión inicial del proyecto con estructura base y documentación.
+
+## Versión 1.1
+
+### Archivos modificados
+- `src/script.js`
+- `docs/registro_cambios.md`
+
+### Descripcion de cambios:
+- Se agregó la validación de teléfono en el formulario de cliente.
+- Mensajes de error en rojo si el teléfono no es válido.
+- Mensaje de éxito en verde si el teléfono es válido.
